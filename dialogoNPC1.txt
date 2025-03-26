@@ -2,4 +2,4 @@
 - ¡Que calor, che! Insoportable.
 - ¿Me podés decir como llegar hasta la universidad?
 
-["dialogoNPC-SI"]
+[ "dialogoNPC-SI" , "dialogoNPC-NO" ]
